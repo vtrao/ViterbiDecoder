@@ -1,0 +1,1223 @@
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 2
+
+The 1 polynomial of 2 polynomials
+	1 	0 
+The 2 polynomial of 2 polynomials
+	0 	1 
+The Packet Size of the Transmission Channel is 1000 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.000000%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 3
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 
+The 2 polynomial of 3 polynomials
+	1 	0 	1 
+The 3 polynomial of 3 polynomials
+	1 	1 	0 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.150038%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 4
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 	0 
+The 2 polynomial of 3 polynomials
+	1 	0 	1 	1 
+The 3 polynomial of 3 polynomials
+	0 	1 	0 	0 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.000000%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 4
+
+The Constraint Length K is 3
+
+The 1 polynomial of 4 polynomials
+	1 	0 	0 
+The 2 polynomial of 4 polynomials
+	1 	0 	1 
+The 3 polynomial of 4 polynomials
+	1 	1 	0 
+The 4 polynomial of 4 polynomials
+	0 	0 	1 
+The Packet Size of the Transmission Channel is 1000 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.099900%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 3
+	n is 4
+
+The Constraint Length K is 4
+
+The 1 polynomial of 4 polynomials
+	1 	0 	0 	0 
+The 2 polynomial of 4 polynomials
+	1 	0 	1 	0 
+The 3 polynomial of 4 polynomials
+	0 	1 	0 	1 
+The 4 polynomial of 4 polynomials
+	1 	0 	1 	1 
+The Packet Size of the Transmission Channel is 1000 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.333111%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 3
+	n is 4
+
+The Constraint Length K is 5
+
+The 1 polynomial of 4 polynomials
+	1 	0 	0 	0 	0 
+The 2 polynomial of 4 polynomials
+	1 	0 	1 	0 	1 
+The 3 polynomial of 4 polynomials
+	0 	1 	0 	1 	0 
+The 4 polynomial of 4 polynomials
+	1 	1 	0 	1 	0 
+The Packet Size of the Transmission Channel is 1000 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.066622%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 3
+	n is 5
+
+The Constraint Length K is 4
+
+The 1 polynomial of 5 polynomials
+	1 	0 	0 	0 
+The 2 polynomial of 5 polynomials
+	1 	0 	1 	0 
+The 3 polynomial of 5 polynomials
+	0 	1 	0 	1 
+The 4 polynomial of 5 polynomials
+	1 	1 	0 	1 
+The 5 polynomial of 5 polynomials
+	0 	1 	0 	0 
+The Packet Size of the Transmission Channel is 1000 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.000000%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 4
+	n is 5
+
+The Constraint Length K is 6
+
+The 1 polynomial of 5 polynomials
+	1 	0 	0 	0 	1 	0 
+The 2 polynomial of 5 polynomials
+	1 	0 	1 	0 	1 	0 
+The 3 polynomial of 5 polynomials
+	0 	1 	0 	1 	0 	1 
+The 4 polynomial of 5 polynomials
+	1 	0 	0 	1 	1 	0 
+The 5 polynomial of 5 polynomials
+	0 	0 	0 	1 	1 	0 
+The Packet Size of the Transmission Channel is 1000 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.000000%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 5
+	n is 7
+
+The Constraint Length K is 7
+
+The 1 polynomial of 7 polynomials
+	1 	0 	0 	0 	1 	0 	1 
+The 2 polynomial of 7 polynomials
+	1 	0 	1 	0 	1 	0 	1 
+The 3 polynomial of 7 polynomials
+	0 	1 	0 	1 	0 	1 	0 
+The 4 polynomial of 7 polynomials
+	0 	0 	0 	1 	1 	0 	0 
+The 5 polynomial of 7 polynomials
+	0 	1 	0 	1 	0 	0 	0 
+The 6 polynomial of 7 polynomials
+	0 	0 	1 	1 	1 	0 	0 
+The 7 polynomial of 7 polynomials
+	1 	0 	1 	0 	1 	1 	1 
+The Packet Size of the Transmission Channel is 1001 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.000000%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 3
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 
+The 2 polynomial of 3 polynomials
+	1 	0 	1 
+The 3 polynomial of 3 polynomials
+	1 	1 	0 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 8.000000db
+
+The error rate is 0.075019%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 3
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 
+The 2 polynomial of 3 polynomials
+	1 	0 	1 
+The 3 polynomial of 3 polynomials
+	1 	1 	0 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.150038%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 3
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 
+The 2 polynomial of 3 polynomials
+	1 	0 	1 
+The 3 polynomial of 3 polynomials
+	1 	1 	0 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 10.000000db
+
+The error rate is 0.000000%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 3
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 
+The 2 polynomial of 3 polynomials
+	1 	0 	1 
+The 3 polynomial of 3 polynomials
+	1 	1 	0 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 4.000000db
+
+The error rate is 0.825206%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 3
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 
+The 2 polynomial of 3 polynomials
+	1 	0 	1 
+The 3 polynomial of 3 polynomials
+	1 	1 	0 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 22.000000db
+
+The error rate is 0.000000%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 3
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 
+The 2 polynomial of 3 polynomials
+	1 	0 	1 
+The 3 polynomial of 3 polynomials
+	1 	1 	0 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 2.000000db
+
+The error rate is 1.875469%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 3
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 
+The 2 polynomial of 3 polynomials
+	1 	0 	1 
+The 3 polynomial of 3 polynomials
+	1 	1 	0 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 1.000000db
+
+The error rate is 3.675919%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 3
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 
+The 2 polynomial of 3 polynomials
+	1 	0 	1 
+The 3 polynomial of 3 polynomials
+	1 	1 	0 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 0.500000db
+
+The error rate is 4.051013%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 3
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 
+The 2 polynomial of 3 polynomials
+	1 	0 	1 
+The 3 polynomial of 3 polynomials
+	1 	1 	0 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is -2.000000db
+
+The error rate is 12.153038%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 3
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 
+The 2 polynomial of 3 polynomials
+	1 	0 	1 
+The 3 polynomial of 3 polynomials
+	1 	1 	0 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is -1.000000db
+
+The error rate is 7.576894%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 3
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 
+The 2 polynomial of 3 polynomials
+	1 	0 	1 
+The 3 polynomial of 3 polynomials
+	1 	1 	0 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is -1.500000db
+
+The error rate is 9.152288%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 3
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 
+The 2 polynomial of 3 polynomials
+	1 	0 	1 
+The 3 polynomial of 3 polynomials
+	1 	1 	0 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 1.500000db
+
+The error rate is 2.325581%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 5
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 	0 	0 
+The 2 polynomial of 3 polynomials
+	1 	0 	0 	0 	1 
+The 3 polynomial of 3 polynomials
+	1 	1 	0 	0 	0 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 10 
+
+The Signal to Noise Ratio (SNR) is 0.000000db
+
+The error rate is 5.254466%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 4
+
+The 1 polynomial of 3 polynomials
+	1 	1 	1 	1 
+The 2 polynomial of 3 polynomials
+	0 	1 	1 	0 
+The 3 polynomial of 3 polynomials
+	1 	1 	0 	1 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 10 
+
+The Signal to Noise Ratio (SNR) is -2.000000db
+
+The error rate is 16.754241%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 4
+
+The 1 polynomial of 3 polynomials
+	1 	1 	1 	1 
+The 2 polynomial of 3 polynomials
+	0 	1 	1 	0 
+The 3 polynomial of 3 polynomials
+	1 	1 	0 	1 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 10 
+
+The Signal to Noise Ratio (SNR) is -1.000000db
+
+The error rate is 9.638192%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 3
+
+The 1 polynomial of 2 polynomials
+	1 	0 	0 
+The 2 polynomial of 2 polynomials
+	1 	0 	1 
+The Packet Size of the Transmission Channel is 2000000 
+
+Number of Frames Transmitted are 1 
+
+The Signal to Noise Ratio (SNR) is 2.000000db
+
+The error rate is 0.166600%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 3
+
+The 1 polynomial of 2 polynomials
+	1 	0 	0 
+The 2 polynomial of 2 polynomials
+	1 	0 	1 
+The Packet Size of the Transmission Channel is 2000000 
+
+Number of Frames Transmitted are 1 
+
+The Signal to Noise Ratio (SNR) is 4.000000db
+
+The error rate is 0.006900%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 3
+
+The 1 polynomial of 2 polynomials
+	1 	0 	0 
+The 2 polynomial of 2 polynomials
+	1 	0 	1 
+The Packet Size of the Transmission Channel is 200000 
+
+Number of Frames Transmitted are 10 
+
+The Signal to Noise Ratio (SNR) is 4.000000db
+
+The error rate is 0.007800%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 3
+
+The 1 polynomial of 2 polynomials
+	1 	0 	0 
+The 2 polynomial of 2 polynomials
+	1 	0 	1 
+The Packet Size of the Transmission Channel is 200000 
+
+Number of Frames Transmitted are 10 
+
+The Signal to Noise Ratio (SNR) is 2.000000db
+
+The error rate is 0.154600%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 3
+
+The Constraint Length K is 4
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 	1 
+The 2 polynomial of 3 polynomials
+	1 	0 	1 	0 
+The 3 polynomial of 3 polynomials
+	0 	1 	0 	1 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 10 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.000000%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 2
+
+The 1 polynomial of 2 polynomials
+	1 	0 
+The 2 polynomial of 2 polynomials
+	0 	1 
+The Packet Size of the Transmission Channel is 100 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 46.534653%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 2
+
+The 1 polynomial of 2 polynomials
+	1 	0 
+The 2 polynomial of 2 polynomials
+	0 	1 
+The Packet Size of the Transmission Channel is 100 
+
+Number of Frames Transmitted are 1 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 1.960784%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 2
+
+The 1 polynomial of 2 polynomials
+	1 	0 
+The 2 polynomial of 2 polynomials
+	0 	1 
+The Packet Size of the Transmission Channel is 100 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.990099%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 3
+	n is 4
+
+The Constraint Length K is 5
+
+The 1 polynomial of 4 polynomials
+	1 	0 	0 	0 	0 
+The 2 polynomial of 4 polynomials
+	1 	1 	0 	0 	0 
+The 3 polynomial of 4 polynomials
+	0 	1 	0 	0 	0 
+The 4 polynomial of 4 polynomials
+	0 	0 	0 	1 	0 
+The Packet Size of the Transmission Channel is 100 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 15.894040%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 5
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 	0 	0 
+The 2 polynomial of 3 polynomials
+	1 	1 	0 	0 	0 
+The 3 polynomial of 3 polynomials
+	0 	0 	0 	1 	0 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 1 
+
+The Signal to Noise Ratio (SNR) is 10.000000db
+
+The error rate is 0.000000%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 4
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 	0 
+The 2 polynomial of 3 polynomials
+	1 	0 	1 	0 
+The 3 polynomial of 3 polynomials
+	0 	1 	0 	1 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 1 
+
+The Signal to Noise Ratio (SNR) is 10.000000db
+
+The error rate is 0.000000%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 3
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 
+The 2 polynomial of 3 polynomials
+	1 	1 	0 
+The 3 polynomial of 3 polynomials
+	1 	1 	1 
+The Packet Size of the Transmission Channel is 333 
+
+Number of Frames Transmitted are 1 
+
+The Signal to Noise Ratio (SNR) is 8.000000db
+
+The error rate is 0.000000%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 3
+
+The Constraint Length K is 3
+
+The 1 polynomial of 3 polynomials
+	1 	1 	1 
+The 2 polynomial of 3 polynomials
+	1 	1 	1 
+The 3 polynomial of 3 polynomials
+	1 	1 	1 
+The Packet Size of the Transmission Channel is 333 
+
+Number of Frames Transmitted are 1 
+
+The Signal to Noise Ratio (SNR) is 8.000000db
+
+The error rate is 43.497758%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 2
+
+The 1 polynomial of 2 polynomials
+	1 	0 
+The 2 polynomial of 2 polynomials
+	0 	1 
+The Packet Size of the Transmission Channel is 1000 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 8.000000db
+
+The error rate is 0.099900%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 2
+
+The 1 polynomial of 2 polynomials
+	1 	0 
+The 2 polynomial of 2 polynomials
+	0 	1 
+The Packet Size of the Transmission Channel is 1000 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.099900%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 2
+
+The 1 polynomial of 2 polynomials
+	1 	0 
+The 2 polynomial of 2 polynomials
+	0 	1 
+The Packet Size of the Transmission Channel is 1000 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.099900%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 2
+
+The 1 polynomial of 2 polynomials
+	1 	0 
+The 2 polynomial of 2 polynomials
+	0 	1 
+The Packet Size of the Transmission Channel is 1000 
+
+Number of Frames Transmitted are 5 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.079968%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 2
+
+The 1 polynomial of 2 polynomials
+	1 	0 
+The 2 polynomial of 2 polynomials
+	0 	1 
+The Packet Size of the Transmission Channel is 2000 
+
+Number of Frames Transmitted are 4 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.024994%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 2
+
+The 1 polynomial of 2 polynomials
+	1 	0 
+The 2 polynomial of 2 polynomials
+	0 	1 
+The Packet Size of the Transmission Channel is 10 
+
+Number of Frames Transmitted are 1 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.000000%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 3
+
+The Constraint Length K is 3
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 
+The 2 polynomial of 3 polynomials
+	0 	1 	0 
+The 3 polynomial of 3 polynomials
+	1 	0 	1 
+The Packet Size of the Transmission Channel is 33 
+
+Number of Frames Transmitted are 1 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.000000%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 3
+
+The Constraint Length K is 3
+
+The 1 polynomial of 3 polynomials
+	1 	0 	0 
+The 2 polynomial of 3 polynomials
+	1 	0 	1 
+The 3 polynomial of 3 polynomials
+	1 	1 	0 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 1 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.598802%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 3
+
+The Constraint Length K is 2
+
+The 1 polynomial of 3 polynomials
+	1 	0 
+The 2 polynomial of 3 polynomials
+	1 	1 
+The 3 polynomial of 3 polynomials
+	1 	1 
+The Packet Size of the Transmission Channel is 999 
+
+Number of Frames Transmitted are 1 
+
+The Signal to Noise Ratio (SNR) is 6.000000db
+
+The error rate is 0.299401%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 4
+
+The Constraint Length K is 4
+
+The 1 polynomial of 4 polynomials
+	1 	0 	0 	1 
+The 2 polynomial of 4 polynomials
+	1 	1 	0 	0 
+The 3 polynomial of 4 polynomials
+	0 	1 	0 	1 
+The 4 polynomial of 4 polynomials
+	1 	0 	0 	0 
+The Packet Size of the Transmission Channel is 1000 
+
+Number of Frames Transmitted are 4 
+
+The Signal to Noise Ratio (SNR) is 8.000000db
+
+The error rate is 0.199900%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 4
+
+The Constraint Length K is 4
+
+The 1 polynomial of 4 polynomials
+	1 	0 	0 	0 
+The 2 polynomial of 4 polynomials
+	1 	0 	0 	0 
+The 3 polynomial of 4 polynomials
+	1 	1 	1 	1 
+The 4 polynomial of 4 polynomials
+	1 	1 	1 	1 
+The Packet Size of the Transmission Channel is 1000 
+
+Number of Frames Transmitted are 1 
+
+The Signal to Noise Ratio (SNR) is 8.000000db
+
+The error rate is 0.000000%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 2
+	n is 4
+
+The Constraint Length K is 4
+
+The 1 polynomial of 4 polynomials
+	1 	0 	0 	1 
+The 2 polynomial of 4 polynomials
+	1 	0 	1 	0 
+The 3 polynomial of 4 polynomials
+	0 	1 	0 	1 
+The 4 polynomial of 4 polynomials
+	0 	0 	0 	1 
+The Packet Size of the Transmission Channel is 1000 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 8.000000db
+
+The error rate is 0.099900%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 2
+
+The 1 polynomial of 2 polynomials
+	1 	0 
+The 2 polynomial of 2 polynomials
+	0 	1 
+The Packet Size of the Transmission Channel is 1000 
+
+Number of Frames Transmitted are 1 
+
+The Signal to Noise Ratio (SNR) is 8.000000db
+
+The error rate is 0.199601%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 2
+
+The 1 polynomial of 2 polynomials
+	1 	0 
+The 2 polynomial of 2 polynomials
+	0 	1 
+The Packet Size of the Transmission Channel is 1000 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 8.000000db
+
+The error rate is 0.099900%
+
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 3
+
+The 1 polynomial of 2 polynomials
+	1 	0 	0 
+The 2 polynomial of 2 polynomials
+	0 	0 	1 
+The Packet Size of the Transmission Channel is 100 
+
+Number of Frames Transmitted are 1 
+
+The Signal to Noise Ratio (SNR) is 8.000000db
+
+The error rate is 0.000000%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 3
+
+The 1 polynomial of 2 polynomials
+	1 	0 	0 
+The 2 polynomial of 2 polynomials
+	0 	1 	0 
+The Packet Size of the Transmission Channel is 100 
+
+Number of Frames Transmitted are 1 
+
+The Signal to Noise Ratio (SNR) is 8.000000db
+
+The error rate is 0.000000%
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 3
+
+The 1 polynomial of 2 polynomials
+	1 	0 	0 
+The 2 polynomial of 2 polynomials
+	1 	0 	1 
+The Packet Size of the Transmission Channel is 1000 
+
+Number of Frames Transmitted are 2 
+
+The Signal to Noise Ratio (SNR) is 8.000000db
+
+The error rate is 0.299700%
+
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 3
+
+The 1 polynomial of 2 polynomials
+	1 	0 	0 
+The 2 polynomial of 2 polynomials
+	1 	0 	1 
+The Packet Size of the Transmission Channel is 500 
+
+Number of Frames Transmitted are 1 
+
+The Signal to Noise Ratio (SNR) is 8.000000db
+
+The error rate is 0.398406%
+
+
+	---------------Latest Transmission if this is the last Entry------------------	
+
+The Rate of Encoder  
+	k is 1
+	n is 2
+
+The Constraint Length K is 3
+
+The 1 polynomial of 2 polynomials
+	1 	0 	0 
+The 2 polynomial of 2 polynomials
+	1 	0 	1 
+The Packet Size of the Transmission Channel is 1010 
+
+Number of Frames Transmitted are 1 
+
+The Signal to Noise Ratio (SNR) is 8.000000db
+
+The error rate is 0.000000%

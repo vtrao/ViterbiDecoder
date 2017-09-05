@@ -1,0 +1,5 @@
+ce: finall1.o
+	cc  finall1.o -o ce -lm
+finalll.o: finall1.c
+	cc -c finall1.c
+

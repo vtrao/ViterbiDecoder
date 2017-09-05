@@ -1,0 +1,20 @@
+venkatnaidu@users.sourceforge.net 
+
+
+   	  PROJECTS DONE AT International Institute of Information Technology Bangalore
+
+
+
+2 ########Communication Engineering PROJECT:    Got A GRADE        
+	
+		Title: Encoder and viterbi Tail Biting Decoder   Status: COMPLETED
+			    (AWGN channel)
+
+		Platform: Linux (SUSE)				 Programming Language: C
+
+	Roll Number		Name				 Email-ID:
+	2005145          Venkata Thippanna Rao P  R              venkata.thippannarao@iiitb.ac.in 
+
+	2005147          Vidyadhar Nemalapuri                    vidyadhar.nemalapuri@iiitb.ac.in 
+
+	2005148          Vikas C                                 vikas.c@iiitb.ac.in 
